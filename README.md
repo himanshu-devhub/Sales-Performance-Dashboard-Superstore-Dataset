@@ -1,19 +1,29 @@
-# Sales-Performance-Dashboard-Superstore-Dataset
+# Project Title: Sales Performance Dashboard
+
 ## 📌 Objective
-Analyze and visualize sales, profit, and discount patterns to uncover business insights using Power BI and SQL.
+Analyze Superstore sales data to uncover regional trends, top-performing products, and overall profitability using Power BI.
 
-## 📊 Key Metrics
-- Total Sales, Profit, Quantity
-- Sales by Category, Region
-- Monthly Trends, Discount Impact
+## 🧰 Tools Used
+- Power BI
+- SQL (for data prep)
+- Excel
 
-## 📁 Files Included
-- `Sales_Dashboard.pbix`: Power BI dashboard file
-- `sales_summary_queries.sql`: SQL queries for insights
-- `dashboard_screenshot.png`: Visual preview
+## 📁 Dataset
+[Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+## 📊 Key Features
+- KPIs: Total Sales, Profit, Quantity, Discount
+- Filters: Region, Category, Segment, Date
+- Drill-through pages for product-level insights
 
 ## 💡 Business Insights
-- Central Region had highest sales but lowest profit margin
-- High discounts on furniture led to profit loss
-- Technology had highest revenue with minimal returns
+- Central region had the highest profit margin.
+- High discounts in the furniture category led to losses.
+- Technology had high sales and low returns — a focus area.
+
+## 📂 Files
+- `sales_dashboard.pbix`
+- `sales_summary.sql`
+- `dashboard_screenshot.png`
+
 
